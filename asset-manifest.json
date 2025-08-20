@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/snablfrat/static/css/main.560f96ef.css",
-    "main.js": "/snablfrat/static/js/main.e9a63a1f.js",
+    "main.js": "/snablfrat/static/js/main.238d580e.js",
     "index.html": "/snablfrat/index.html",
     "main.560f96ef.css.map": "/snablfrat/static/css/main.560f96ef.css.map",
-    "main.e9a63a1f.js.map": "/snablfrat/static/js/main.e9a63a1f.js.map"
+    "main.238d580e.js.map": "/snablfrat/static/js/main.238d580e.js.map"
   },
   "entrypoints": [
     "static/css/main.560f96ef.css",
-    "static/js/main.e9a63a1f.js"
+    "static/js/main.238d580e.js"
   ]
 }
