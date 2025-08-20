@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/snablfrat/static/css/main.560f96ef.css",
+    "main.js": "/snablfrat/static/js/main.e9a63a1f.js",
+    "index.html": "/snablfrat/index.html",
+    "main.560f96ef.css.map": "/snablfrat/static/css/main.560f96ef.css.map",
+    "main.e9a63a1f.js.map": "/snablfrat/static/js/main.e9a63a1f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.560f96ef.css",
+    "static/js/main.e9a63a1f.js"
+  ]
+}
